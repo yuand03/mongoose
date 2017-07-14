@@ -1,3 +1,4 @@
+The fork will fix ---Error: Cannot find module '../build/Release/bson'(mongodb 1.4.x)
 # Mongoose
 
 Mongoose is a [MongoDB](http://www.mongodb.org/) object modeling tool designed to work in an asynchronous environment.
